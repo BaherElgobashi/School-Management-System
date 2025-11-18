@@ -18,7 +18,7 @@ namespace School_Management_System.Models
 
         // Navigation Property.
 
-        // public ICollection<Department> Departments { get; set; }
+        public ICollection<Department> Departments { get; set; }
 
     }
 }
