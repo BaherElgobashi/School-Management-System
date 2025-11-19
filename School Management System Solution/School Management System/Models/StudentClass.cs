@@ -20,6 +20,7 @@ namespace School_Management_System.Models
         public int ClassId { get; set; }
         // Navigation Property for Class Table.
         public Class Class { get; set; }
+        
 
     }
 }

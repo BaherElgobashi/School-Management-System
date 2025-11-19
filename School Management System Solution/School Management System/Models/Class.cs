@@ -34,6 +34,9 @@ namespace School_Management_System.Models
         // Navigation Property For User Table.
         public User User { get; set; }
 
+        // Navigation Property For StudentClass Table.
+        public ICollection<StudentClass> StudentClasses { get; set; }
+
 
 
 
