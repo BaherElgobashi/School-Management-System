@@ -22,9 +22,10 @@ namespace School_Management_System.Models
         public DateTime CreatedDate { get; set; }
         public DateTime UpdatedDate { get; set; }
 
-        // Foreign Key to Department Table
+        // Foreign Key to Department Table.
 
         public int DepartmentId { get; set; }
+        // Navigation Property To Department Table.
         public Department Department { get; set; }
         
     }
