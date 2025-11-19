@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Asp.net Revision\\School Management System\\School Management System Solution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18E0FC00-A2B6-4BF8-AC68-E27BCB31B394}|School Management System\\School Management System.csproj|d:\\asp.net revision\\school management system\\school management system solution\\school management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18E0FC00-A2B6-4BF8-AC68-E27BCB31B394}|School Management System\\School Management System.csproj|solutionrelative:school management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Asp.net Revision\\School Management System\\School Management System Solution\\School Management System\\Migrations\\20251119133624_initial Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:School Management System\\Migrations\\20251119133624_initial Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E0FC00-A2B6-4BF8-AC68-E27BCB31B394}|School Management System\\School Management System.csproj|d:\\asp.net revision\\school management system\\school management system solution\\school management system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E0FC00-A2B6-4BF8-AC68-E27BCB31B394}|School Management System\\School Management System.csproj|solutionrelative:school management system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E0FC00-A2B6-4BF8-AC68-E27BCB31B394}|School Management System\\School Management System.csproj|d:\\asp.net revision\\school management system\\school management system solution\\school management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E0FC00-A2B6-4BF8-AC68-E27BCB31B394}|School Management System\\School Management System.csproj|solutionrelative:school management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251119133624_initial Create.cs",
+              "DocumentMoniker": "D:\\Asp.net Revision\\School Management System\\School Management System Solution\\School Management System\\Migrations\\20251119133624_initial Create.cs",
+              "RelativeDocumentMoniker": "School Management System\\Migrations\\20251119133624_initial Create.cs",
+              "ToolTip": "D:\\Asp.net Revision\\School Management System\\School Management System Solution\\School Management System\\Migrations\\20251119133624_initial Create.cs",
+              "RelativeToolTip": "School Management System\\Migrations\\20251119133624_initial Create.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:36:24.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.net Revision\\School Management System\\School Management System Solution\\School Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "School Management System\\appsettings.json",
+              "ToolTip": "D:\\Asp.net Revision\\School Management System\\School Management System Solution\\School Management System\\appsettings.json",
+              "RelativeToolTip": "School Management System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T13:35:07.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Asp.net Revision\\School Management System\\School Management System Solution\\School Management System\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "School Management System\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Asp.net Revision\\School Management System\\School Management System Solution\\School Management System\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "School Management System\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:33:58.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.net Revision\\School Management System\\School Management System Solution\\School Management System\\Program.cs",
+              "RelativeDocumentMoniker": "School Management System\\Program.cs",
+              "ToolTip": "D:\\Asp.net Revision\\School Management System\\School Management System Solution\\School Management System\\Program.cs",
+              "RelativeToolTip": "School Management System\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:32:51.159Z",
+              "EditorCaption": ""
             }
           ]
         }
