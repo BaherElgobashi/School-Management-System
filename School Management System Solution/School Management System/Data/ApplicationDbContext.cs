@@ -8,6 +8,11 @@ namespace School_Management_System.Data
 {
     public class ApplicationDbContext : DbContext
     {
+
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+        {
+            
+        }
         
     }
 }
