@@ -13,6 +13,9 @@ namespace School_Management_System.Data
         {
             
         }
-        
+        // override protected void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        // {
+        //     optionsBuilder.UseSqlServer("Server=.;Database=SchoolManagementDB;Trusted_Connection=True;MultipleActiveResultSets=true");
+        // }
     }
 }
